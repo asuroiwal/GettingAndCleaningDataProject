@@ -212,7 +212,7 @@ The measurements are classified in two domains:
 
 ## Transformations <a name="transformations"></a>
 
-The original data set was downloaded [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](from).
+The original data set was downloaded [from](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
 
 Subsequently, the following transformations were applied to it:
 
